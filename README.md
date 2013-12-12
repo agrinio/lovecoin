@@ -1,0 +1,4 @@
+lovecoin
+========
+
+Cryptocurrency coin
